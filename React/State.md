@@ -6,7 +6,7 @@
 const [emailValue, setEmailValue] = useState("");
 ```
 
-이건 **React (리액트)** 에서 사용하는 **“useState 훅(Hook)” 문법**이에요.
+이건 **React (리액트)** 에서 사용하는 **“useState 훅(Hook)” 문법**이에요. [^1]
 
 아주 핵심적인 개념이라 처음 보면 낯설지만, 구조를 이해하면 정말 간단합니다.
 
@@ -135,3 +135,5 @@ React는 단순히 DOM을 조작하지 않고,
 |useState()|컴포넌트 안에서 상태를 만들 때 사용|
 |[a, setA]|첫 번째는 상태값, 두 번째는 그걸 바꾸는 함수|
 |초기값|괄호 안에 넣음 (useState(""), useState(0) 등)|
+
+[^1]: 이런걸 말하는 것이다
