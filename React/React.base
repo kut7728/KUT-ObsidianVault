@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 표
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 300

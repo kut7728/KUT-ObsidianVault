@@ -1,8 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
-  "calendar",
   "obsidian-icon-folder",
   "editing-toolbar",
   "obsidian-git",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "folder-notes"
 ]
