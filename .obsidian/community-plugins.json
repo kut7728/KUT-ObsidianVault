@@ -1,9 +1,7 @@
 [
-  "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "editing-toolbar",
   "obsidian-git",
-  "highlightr-plugin",
   "waypoint",
-  "folder-note-plugin"
+  "folder-notes"
 ]
