@@ -11,6 +11,7 @@
 - [[React]]
 - [[Server Side Rendering]]
 - [[State]]
+- [[Zod]]
 
 %% End Waypoint %%
 
