@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SfImages",
       "SvReact",
       "SfFlutter",
       "SfReact",
-      "SfPortrait",
-      "SfList"
+      "SfPortrait"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,8 +34,8 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "React": "SvReact",
-  "Portfolio": "SfPortrait",
+  "React": "SfReact",
+  "Portfolio": "SfList",
   "Flutter": "SfFlutter",
-  "Attachments": "SvImage"
+  "Attachments": "SfImages"
 }
