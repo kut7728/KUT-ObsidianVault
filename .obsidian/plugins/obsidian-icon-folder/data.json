@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArrowBigLeftDash",
-      "LiAirplay",
-      "Ff7wFlutter",
-      "Ff7wReact",
-      "FbReact"
+      "SvReact",
+      "SfFlutter",
+      "SfReact",
+      "SfPortrait",
+      "SfList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,8 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "React": "LiArrowBigLeftDash"
+  "React": "SvReact",
+  "Portfolio": "SfPortrait",
+  "Flutter": "SfFlutter",
+  "Attachments": "SvImage"
 }
