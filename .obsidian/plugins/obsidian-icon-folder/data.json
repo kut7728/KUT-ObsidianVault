@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Ff7wReact",
+      "FbReact",
       "LiTableProperties",
       "FabReact",
-      "FasImage",
-      "RiHomeGearFill",
-      "⚙"
+      "FasImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Attachments": "FasImage",
-  "React": "FabReact",
-  "Portfolio": "LiTableProperties"
+  "React": "Ff7wReact"
 }
