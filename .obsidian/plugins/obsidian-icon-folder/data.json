@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowBigLeftDash",
+      "LiAirplay",
+      "Ff7wFlutter",
       "Ff7wReact",
-      "FbReact",
-      "LiTableProperties",
-      "FabReact",
-      "FasImage"
+      "FbReact"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "React": "Ff7wReact"
+  "React": "LiArrowBigLeftDash"
 }
