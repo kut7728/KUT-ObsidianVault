@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
+- **[[상태관리]]**
 - [[질문거리]]
-- [[Context API]]
 - [[Hook]]
 - [[index.tsx]]
 - [[Layout 시스템]]
@@ -10,7 +10,6 @@
 - [[Props]]
 - [[React]]
 - [[Server Side Rendering]]
-- [[State]]
 - [[Zod]]
 
 %% End Waypoint %%
